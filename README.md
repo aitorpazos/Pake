@@ -21,6 +21,8 @@
 
 <div align="left">Pake supports Mac, Windows, and Linux. Check out README for <a href="#popular-packages">Popular Packages</a>, <a href="#command-line-packaging">Command-Line Packaging</a>, and <a href="#development">Customized Development</a> information. Feel free to share your suggestions in <a href=https://github.com/tw93/Pake/discussions>Discussions</a>.</div>
 
+# Updated to my own needs
+
 ## Features
 
 - 🎐 Nearly 20 times smaller than an Electron package (around 5M!)
